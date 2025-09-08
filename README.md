@@ -9,8 +9,12 @@ Este projeto foi desenvolvido como parte dos meus estudos em **HTML** e **CSS**,
 
 - Estrutura HTML semântica
 - Layout moderno com Flexbox
-- Estilização com CSS puro
+- Estilização avançada com CSS puro e efeitos de hover
+- Navegação funcional entre páginas
 - Links para redes sociais simulando um mini “cartão de visitas”
+- Typography moderna com Google Fonts (Krona One & Montserrat)
+- Efeitos visuais com transições suaves e gradientes
+
 
 ---
 
@@ -26,7 +30,8 @@ Este projeto foi desenvolvido como parte dos meus estudos em **HTML** e **CSS**,
 
 - **HTML5**
 - **CSS3 (Flexbox)**
-- Google Fonts (Krona One & Montserrat)
+- **Google Fonts (Krona One & Montserrat)**
+- **GitHub Pages - Deploy e hospedagem gratuita**
 
 ---
 
@@ -37,5 +42,20 @@ Mais do que um site, é um **passo importante** na minha jornada para me tornar 
 
 ---
 
+📋 Estrutura do Projeto
+
+📦 Estudo_Portifolio/
+├── 📄 index.html          # Página principal
+├── 📄 about.html          # Página sobre mim
+├── 📁 Styles/
+│   └── 📄 style.css       # Arquivo de estilos
+├── 📁 assets/
+│   ├── 🖼️ Imagem.png      # Foto de perfil
+│   ├── 🖼️ linkedin.png    # Ícone LinkedIn
+│   └── 🖼️ github.png      # Ícone GitHub
+└── 📄 README.md           # Este arquivo
+
+
 📬 **Contato:**  
 Caso queira trocar ideias ou dar sugestões, fique à vontade para me encontrar aqui no [GitHub](https://github.com/LeRonchi) 😄
+[LinkedIn](https://www.linkedin.com/in/leandroronchi-ti/) 💼
