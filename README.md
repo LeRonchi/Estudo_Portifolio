@@ -1,63 +1,41 @@
-# Meu Site Anime 🎥
+# 🌐 Portfólio de Estudos – Front-end
 
-Este é um projeto **de estudo**, desenvolvido por mim como estudante de Análise e Desenvolvimento de Sistemas, com a ajuda da **Inteligência Artificial**.  
-O objetivo é praticar conceitos de **HTML**, **CSS** e **JavaScript**, criando um site simples com vídeos de fundo que mudam de forma dinâmica.
-
----
-
-## 🚀 Demonstração Online
-
-🔗 [Veja o projeto no GitHub Pages](https://leronchi.github.io/MeuSiteAnime/)
+Bem-vindo ao meu primeiro projeto de portfólio! 🚀  
+Este projeto foi desenvolvido como parte dos meus estudos em **HTML** e **CSS**, com foco em criar uma página simples, bonita e responsiva para apresentar um pouco do que estou aprendendo no mundo do Front-end.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🖥️ O que tem aqui
 
-- **HTML5** → Estrutura e organização da página
-- **CSS3** → Estilização, posicionamento e efeitos visuais
-- **JavaScript** → Lógica para controle dos vídeos, troca aleatória e botões interativos
-
----
-
-
-## 📂 Estrutura do Projeto
-
-MeuSiteAnime/
-├── index.html # Página principal
-├── style.css # Estilos do site
-├── script.js # Lógica para reprodução dos vídeos
-└── assets/
-    ├── video/ # Vídeos usados no background
-    └── imagens/ # Ícones dos botões de controle
+- Estrutura HTML semântica
+- Layout moderno com Flexbox
+- Estilização com CSS puro
+- Links para redes sociais simulando um mini “cartão de visitas”
 
 ---
 
-## 💡 Funcionalidades
+## 🎨 Prévia do Projeto
 
-- Vídeos de fundo em tela cheia com **troca aleatória**.
-- **Botões flutuantes** para escolher um vídeo específico ou voltar ao modo aleatório.
-- Retorno automático ao modo aleatório alguns segundos após um vídeo específico terminar.
-- Layout responsivo, com contraste de texto para melhor leitura sobre o vídeo.
-- Mensagem de orientação para usuários de celular em modo retrato, sugerindo virar o aparelho para o modo paisagem para melhor visualização dos vídeos.
-- **Botão de Ação flutuante na parte inferior da tela, que revela um texto contextualizado com o vídeo em reprodução ao ser clicado.**
+🔗 **Veja o projeto online aqui:** [Portfólio Online](https://LeRonchi.github.io/Estudo_Portifolio/)  
+
+*(O link acima funciona se o repositório estiver com o GitHub Pages ativado!)*
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🛠️ Tecnologias utilizadas
 
-Este projeto faz parte do meu aprendizado prático, onde pude:
-- Treinar manipulação do DOM com JavaScript.
-- Aprender a trabalhar com reprodução de mídia e eventos de vídeo.
-- Criar uma interface interativa e funcional.
-- Desenvolver com boas práticas de organização de código e arquivos.
+- **HTML5**
+- **CSS3 (Flexbox)**
+- Google Fonts (Krona One & Montserrat)
 
 ---
 
-## 🧠 Apoio da IA
+## 💡 Objetivo
 
-Grande parte do projeto foi elaborado com o suporte da **IA (AI Studio)**, que ajudou na estruturação do código, organização do layout e boas práticas para um projeto front-end iniciante.
+Esse projeto foi criado para **praticar e consolidar conceitos básicos** de desenvolvimento web, como estruturação de conteúdo, estilização e organização de código.  
+Mais do que um site, é um **passo importante** na minha jornada para me tornar um desenvolvedor Front-end criativo e preparado para o mercado! ✨
 
 ---
 
-✍️ **Autor**: [Leandro Ronchi](https://github.com/LeRonchi)
-📅 **Status**: Em desenvolvimento — projeto de estudo.
+📬 **Contato:**  
+Caso queira trocar ideias ou dar sugestões, fique à vontade para me encontrar aqui no [GitHub](https://github.com/LeRonchi) 😄
